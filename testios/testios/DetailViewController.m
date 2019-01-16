@@ -19,6 +19,7 @@
     if (self.detailItem) {
         self.detailDescriptionLabel.text = [self.detailItem description];
     }
+    printf("update bug 0.0.3 - 5:40PM 16-01-2019")
 }
 
 
