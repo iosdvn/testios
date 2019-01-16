@@ -27,6 +27,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [self configureView];
+    printf("update bug 0.0.4 - 5:50PM 16-01-2019");
 }
 
 
