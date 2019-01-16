@@ -24,7 +24,8 @@
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject:)];
     self.navigationItem.rightBarButtonItem = addButton;
     self.detailViewController = (DetailViewController *)[[self.splitViewController.viewControllers lastObject] topViewController];
-    printf("aaaaaa");
+    printf("update bug 0.0.1");
+    printf("update bug 0.0.2 - 5:33 PM 16-01-2019");
 }
 
 
